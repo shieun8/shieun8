@@ -5,7 +5,7 @@
 #### 안녕하세요 🌱잡초처럼 자라나는🌱 iOS 개발자 신희선입니다.
 
 
-## Profile
+## 📄 Profile
 
 > Name : 신희선   
 > BirthDate : 1998-01-30   
@@ -13,10 +13,10 @@
 > E-mail : abcd@google.com  
 > GitHub : abcd@github.com   
 
-## Experiences
+## 🖥️ Experiences
 개발직무경험없음
 
-## Dev Stack
+## 🛠️ Dev Stack
 - __iOS - Swift, SwiftUI, Objective-c__
 - FrontEnd - HTML5, CSS, SCSS, Javascript, React, Redux
 - BackEnd - Node.JS
@@ -24,12 +24,12 @@
 - DB - MySQL
 - GitHub
 
-## Project
+## 🏃‍♀️ Project
 * 간단하고 간편한 UX/UI를 짜서 가계부 앱을 만들어보고 싶음
 * Web개발 React/node.JS기반   
   아기용품 판매 쇼핑몰 제작 - 미완()
 
-## Education
+## ✏️ Education
 * TECHIT __iOS 앱 스쿨 교육 이수__ 2023.09 ~ 2024.02
 * Ezen아카데미 __풀스택 자바(JAVA)웹개발자 교육 이수__   
   2022.08 ~ 2023.02
