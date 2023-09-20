@@ -16,7 +16,7 @@
 ## 🖥️ Experiences
 개발직무경험없음
 ## 🛠️ Dev Stack
-- iOS - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Objective_c-7FADF2?style=flat&logo=&logoColor=E34F26"/>
+- iOS - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/MVVC-512BD4?style=flat&logo=&logoColor=E34F26"/>
 - FrontEnd - <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=&logoColor=E34F26"/>
 - BackEnd - <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=&logoColor=E34F26"/>
 - DesignTool - <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=&logoColor=E34F26"/>
